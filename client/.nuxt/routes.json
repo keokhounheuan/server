@@ -1,0 +1,20 @@
+[
+  {
+    "name": "new-post",
+    "path": "/new-post",
+    "component": "C:\\\\Users\\\\PC\\\\Desktop\\\\apollo-server - Copy\\\\client\\\\pages\\\\new-post.vue",
+    "chunkName": "pages/new-post"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "C:\\\\Users\\\\PC\\\\Desktop\\\\apollo-server - Copy\\\\client\\\\pages\\\\post\\\\_id.vue",
+    "chunkName": "pages/post/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\PC\\\\Desktop\\\\apollo-server - Copy\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
